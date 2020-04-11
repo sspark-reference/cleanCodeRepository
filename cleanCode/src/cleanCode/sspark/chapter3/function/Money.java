@@ -1,4 +1,4 @@
-package cleanCode.com.sspark.function.model;
+package cleanCode.sspark.chapter3.function;
 
 import java.math.BigDecimal;
 

@@ -1,8 +1,6 @@
-package cleanCode.com.sspark.function.model;
+package cleanCode.sspark.chapter3.function;
 
 import java.math.BigDecimal;
-
-import cleanCode.com.sspark.function.Employee;
 
 public class CommissionedEmployee extends Employee{
 	

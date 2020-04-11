@@ -1,4 +1,4 @@
-package cleanCode.com.sspark.function.cleanException;
+package cleanCode.sspark.chapter3.function;
 
 public class InvalidEmployeeType extends Exception{
 		
